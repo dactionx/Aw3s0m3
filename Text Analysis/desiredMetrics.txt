@@ -1,0 +1,3 @@
+<label>Words</label>
+<label>Average word length</label>
+<label>Estimated Reading time</label>
